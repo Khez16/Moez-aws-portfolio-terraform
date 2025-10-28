@@ -242,11 +242,7 @@ MIT License - feel free to use this as a template for your own projects!
 
 Contributions, issues, and feature requests are welcome!
 
-## 📧 Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
-
-Project Link: [https://github.com/yourusername/portfolio-cloud-pipeline](https://github.com/yourusername/portfolio-cloud-pipeline)
 
 ---
 
